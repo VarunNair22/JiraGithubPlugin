@@ -1,2 +1,2 @@
 # JiraGithubPlugin
-Integrate Jira stories and Github (and vice versa)
+Integrate Jfira stories and Github (and vice versa)
